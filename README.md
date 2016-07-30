@@ -1,2 +1,1 @@
-# composer-meta-qa
-Metapackage for PHP QA Tools
+# Metapackage for PHP QA Tools

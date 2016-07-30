@@ -21,7 +21,8 @@
         "phpunit/phpcov": "@stable",
         "sebastian/phpcpd": "@stable",
         "sensiolabs/security-checker": "@stable",
-        "squizlabs/php_codesniffer": "@stable"
+        "squizlabs/php_codesniffer": "@stable",
+        "twig/twig": ">1.20.0"
     },
     "suggest": {
         "hirak/prestissimo": "Composer parallel install plugin"

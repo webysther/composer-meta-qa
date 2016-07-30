@@ -10,7 +10,7 @@
             "email": "webysther@gmail.com"
         }
     ],
-	"require-dev": {
+	"require": {
 		"behat/behat": "@stable",
         "brianium/paratest": "@stable",
         "friendsofphp/php-cs-fixer": "@stable",

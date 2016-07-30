@@ -1,4 +1,6 @@
-# Metapackage for PHP QA Tools
+# PHP Quality Assurance Tools
+
+## Composer Meta Package for PHP QA Tools
 
 This is a composer meta package for installing PHP Quality Assurance Tools with only one dependency, based on [h4cc/phpqatools](https://github.com/h4cc/phpqatools).
 

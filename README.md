@@ -17,13 +17,13 @@ php vendor/bin/phpmd
 To use this package, add it as as "dev" dependency with this command:
 
 ```bash
-composer require webs/composer-meta-qa --dev
+composer require webysther/composer-meta-qa --dev
 ```
 
 Or modify your composer.json as followed:
 
 ```json
 require-dev: {
-  "webs/composer-meta-qa": "@stable"
+  "webysther/composer-meta-qa": "@stable"
 }
 ```

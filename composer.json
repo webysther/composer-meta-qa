@@ -1,7 +1,7 @@
 {
     "name": "webysther/composer-meta-qa",
     "description": "Metapackage for PHP QA Tools.",
-    "keywords": ["php", "qa", "tools"],
+    "keywords": ["php", "qa", "tools", "test", "security", "quality"],
     "type": "metapackage",
     "license": "MIT",
     "authors": [

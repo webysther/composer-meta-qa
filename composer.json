@@ -10,8 +10,8 @@
             "email": "webysther@gmail.com"
         }
     ],
-	"require-dev": {
-		"behat/behat": "@stable",
+    "require-dev": {
+        "behat/behat": "@stable",
         "brianium/paratest": "@stable",
         "friendsofphp/php-cs-fixer": "@stable",
         "phploc/phploc": "@stable",
@@ -22,7 +22,7 @@
         "sebastian/phpcpd": "@stable",
         "sensiolabs/security-checker": "@stable",
         "squizlabs/php_codesniffer": "@stable"
-	},
+    },
     "suggest": {
         "hirak/prestissimo": "Composer parallel install plugin"
     }

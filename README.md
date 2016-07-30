@@ -1,4 +1,4 @@
-PHP Quality Assurance Tools [![Build Status](https://travis-ci.org/Webysther/composer-meta-qas.png?branch=master)](https://travis-ci.org/Webysther/composer-meta-qa)
+PHP Quality Assurance Tools [![Build Status](https://travis-ci.org/Webysther/composer-meta-qa.svg?branch=master)](https://travis-ci.org/Webysther/composer-meta-qa)
 ==========
 
 ## Composer Meta Package for PHP QA Tools

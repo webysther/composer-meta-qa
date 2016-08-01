@@ -19,6 +19,7 @@
         "phpmetrics/phpmetrics": "@stable",
         "phpunit/dbunit": "@stable",
         "phpunit/phpcov": "@stable",
+        "phpunit/phpunit": "@stable",
         "sebastian/phpcpd": "@stable",
         "sensiolabs/security-checker": "@stable",
         "squizlabs/php_codesniffer": "@stable",

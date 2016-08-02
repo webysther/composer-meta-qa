@@ -27,6 +27,7 @@ Plus:
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer): A tool to automatically fix coding standards issues
 - [Security-Checker](https://github.com/sensiolabs/security-checker): Checks if your application uses dependencies with known security vulnerabilities
 - [Behat](https://github.com/Behat/Behat): BDD (Behavior Driven Development) framework
+- [Mockery](https://github.com/padraic/mockery): Simple yet flexible PHP mock object framework
 
 Suggest install:
 

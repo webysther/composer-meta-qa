@@ -28,6 +28,7 @@ Plus:
 - [Security-Checker](https://github.com/sensiolabs/security-checker): Checks if your application uses dependencies with known security vulnerabilities
 - [Behat](https://github.com/Behat/Behat): BDD (Behavior Driven Development) framework
 - [Mockery](https://github.com/padraic/mockery): Simple yet flexible PHP mock object framework
+- [Faker](https://github.com/fzaninotto/Faker): Generates fake data for you
 
 Suggest install:
 

@@ -9,7 +9,7 @@ PHP Quality Assurance Tools
 
 This is a composer meta package for installing PHP Quality Assurance Tools with only one dependency, based on [h4cc/phpqatools](https://github.com/h4cc/phpqatools).
 
-Included in this package are:
+Included in this package (based on [phpqatools](http://phpqatools.org/)) are:
 
 - [PHPUnit](https://github.com/sebastianbergmann/phpunit): Testing Framework
 - [PHPCOV](https://github.com/sebastianbergmann/phpcov): CLI frontend for the [PHP_CodeCoverage](https://github.com/sebastianbergmann/php-code-coverage)
@@ -21,6 +21,9 @@ Included in this package are:
 - [PHPMD](https://github.com/phpmd/phpmd): User friendly frontend application for the raw metrics stream measured by PHP Depend
 - [PhpMetrics](https://github.com/phpmetrics/PhpMetrics): Static analysis tool, gives metrics about PHP project and classes
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer): Detects violations of a defined set of coding standards
+
+Plus: 
+
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer): A tool to automatically fix coding standards issues
 - [Security-Checker](https://github.com/sensiolabs/security-checker): Checks if your application uses dependencies with known security vulnerabilities
 - [Behat](https://github.com/Behat/Behat): BDD (Behavior Driven Development) framework

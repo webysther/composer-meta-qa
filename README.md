@@ -1,8 +1,8 @@
-[![Travis](https://img.shields.io/travis/Webysther/composer-meta-qa.svg?style=flat-square)](https://travis-ci.org/Webysther/composer-meta-qa)
-[![Travis](https://img.shields.io/badge/HHVM-tested-orange.svg?style=flat-square)](https://travis-ci.org/Webysther/composer-meta-qa)
-[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.3-8892BF.svg?style=flat-square)](https://php.net/)
-[![Packagist](https://img.shields.io/packagist/v/webysther/composer-meta-qa.svg?style=flat-square)](https://packagist.org/packages/webysther/composer-meta-qa)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/Webysther/composer-meta-qa/master/LICENSE)
+[![Travis](https://img.shields.io/travis/Webysther/composer-meta-qa.svg?style=flat-square&maxAge=3600)](https://travis-ci.org/Webysther/composer-meta-qa)
+[![Travis](https://img.shields.io/badge/HHVM-tested-orange.svg?style=flat-square&maxAge=3600)](https://travis-ci.org/Webysther/composer-meta-qa)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.3-8892BF.svg?style=flat-square&maxAge=3600)](https://php.net/)
+[![Packagist](https://img.shields.io/packagist/v/webysther/composer-meta-qa.svg?style=flat-square&maxAge=3600)](https://packagist.org/packages/webysther/composer-meta-qa)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&maxAge=3600)](https://raw.githubusercontent.com/Webysther/composer-meta-qa/master/LICENSE)
 
 PHP Quality Assurance Tools
 ==========

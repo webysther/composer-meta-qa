@@ -13,7 +13,7 @@
     "require": {
         "behat/behat": "@stable",
         "brianium/paratest": "@stable",
-        "friendsofphp/php-cs-fixer": "@stable",
+        "friendsofphp/php-cs-fixer": "<2.0",
         "phploc/phploc": "@stable",
         "phpmd/phpmd" : "@stable",
         "phpmetrics/phpmetrics": "@stable",

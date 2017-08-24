@@ -1,5 +1,5 @@
 {
-    "name": "webysther/composer-meta-qa",
+    "name": "folha/composer-meta-qa",
     "description": "Metapackage for PHP QA Tools.",
     "keywords": ["php", "qa", "tools", "test", "security", "quality"],
     "type": "metapackage",
@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Webysther Nunes",
-            "email": "webysther@gmail.com"
+            "email": "webysther.faria@grupofolha.com.br"
         }
     ],
     "require": {

@@ -1,11 +1,15 @@
+# NOT MAINTANED ANYMORE
+
+The development of `composer-plugin-qa` was dropped in favor of [phpqa](https://github.com/jakzal/phpqa) which is actively maintained. The project use docker and can less tightly coupled solution. :)
+
+## PHP Quality Assurance Tools
+
 [![Travis](https://img.shields.io/travis/Webysther/composer-meta-qa.svg?style=flat-square&maxAge=3600)](https://travis-ci.org/Webysther/composer-meta-qa)
 [![Travis](https://img.shields.io/badge/HHVM-tested-orange.svg?style=flat-square&maxAge=3600)](https://travis-ci.org/Webysther/composer-meta-qa)
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.3-8892BF.svg?style=flat-square&maxAge=3600)](https://php.net/)
 [![Packagist](https://img.shields.io/packagist/v/webysther/composer-meta-qa.svg?style=flat-square&maxAge=3600)](https://packagist.org/packages/webysther/composer-meta-qa)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&maxAge=3600)](https://raw.githubusercontent.com/Webysther/composer-meta-qa/master/LICENSE)
 
-PHP Quality Assurance Tools
-==========
 
 This is a composer meta package for installing PHP Quality Assurance Tools with only one dependency, based on [h4cc/phpqatools](https://github.com/h4cc/phpqatools).
 
